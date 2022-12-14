@@ -42,6 +42,31 @@
 [V2Ray客户端 /windows/android/ios/mac](https://www.xiaoglt.top/v2ray%e5%ae%a2%e6%88%b7%e7%ab%af%e5%85%a8%e9%9b%86/)  
 [Xray客户端 /windows/android/ios/mac](https://www.xiaoglt.top/xray%e5%ae%a2%e6%88%b7%e7%ab%af%e5%85%a8%e9%9b%86/)  
 
+<br>
+<br>  
+
+## 免费和优质机场  
+
+#### 免费节点不稳定，有条件的用户可以使用付费节点  
+
+```
+vmess://eyJhZGQiOiAibWFpbi5taWxsaW9uYWlyZWFpc2xlLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJsZzEuY2ZjZG4zLnh5eiIsICJpZCI6ICIzM2FhNTdkZi0xYzkzLTQzMTgtOWZjZS1lODUwNDM3ZWU3ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkgOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogImxnMS5jZmNkbjMueHl6In0=
+vmess://eyJhZGQiOiAiY2FjZXJ0cy5kaWdpY2VydC5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAidXMuYXdzYmVzdC5jb20iLCAiaWQiOiAiNjE1YTEyODUtNTg0OC00MmExLTk4NTktZDRjYjM3YjFmYmQ4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zaGFyZSIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkgMiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInVzLmF3c2Jlc3QuY29tIn0=
+vmess://eyJhZGQiOiAibWFpbi5taWxsaW9uYWlyZWFpc2xlLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJ2MnJheS53ZWZ1Y2tnZncuZ2EiLCAiaWQiOiAiMmMyM2ViMzEtMTEzMy00ODA3LTgxOGUtNDg0ZDlhNDczYjliIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9EUXNhZlJKbi8iLCAicG9ydCI6IDIwNTMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSAyNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInYycmF5LndlZnVja2dmdy5nYSJ9
+vmess://eyJhZGQiOiAiaGsxMS5zYW5mZW4wMDEucGljcyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDQ1NmI1MDItZmU2MS00YmU3LWE5NjktYWEzN2Q5MjRkYmQyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbiIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZE1pY3Jvc29mdFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAibmV3cy5taWNyb3NvZnQuY29tIiwgImFpZCI6IDAsICJob3N0IjogImxnMS50cnVtcDIwMjMudXMiLCAiaWQiOiAiNDBkNDk2YTYtY2VlYi00MDk2LWJhZWItNGNjNTJiMjA1NjIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9FQ1RDSjBERiIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZFJGIEVuZ2luZWVyaW5nIDE5IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibGcxLnRydW1wMjAyMy51cyJ9
+
+```  
+
+|推荐机场|理由|使用说明|
+|:-----------------:|:-----------------:|:-----------------:|
+|[**速鹰666注册(入口一)→**](https://suying770.com/auth/register?code=qiyY) <br/> [**速鹰666注册(入口二)→**](https://suying770.com/auth/register?code=5J5c) <br/> <br/> ***备用地址：**  <br/>  [**http://www.tkgj.life/b**](http://www.tkgj.life/b) <br/>  [**http://www.tkgj.life/6**](http://www.tkgj.life/6) <br/>  [**http://www.tkgj.life/a**](http://www.tkgj.life/a) <br/>  [**http://www.tkgj.life/5**](http://www.tkgj.life/5) <br/>  [**http://www.tkgj.life/9**](http://www.tkgj.life/9) <br/>  [**http://www.tkgj.life/4**](http://www.tkgj.life/4)<br/>  [**http://www.tkgj.life/8**](http://www.tkgj.life/8)<br/>  [**http://www.tkgj.life/3**](http://www.tkgj.life/3)|老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[速鹰使用教程](https://github.com/githubvpn007/v2rayNvpn/blob/main/%E9%80%9F%E9%B9%B0%E6%95%99%E7%A8%8B.md) |
+|[**Just My Socks→**](https://justmysocks3.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵，适合要求ip稳定的用户|[Just My Socks使用教程](https://xiaoheicn.top/just-my-socks%e8%b4%ad%e4%b9%b0%e5%92%8c%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/)|
+
+
+
+
+
 
 
 
