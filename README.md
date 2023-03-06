@@ -63,7 +63,7 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#%E6%B3%95%E5%9
 
 |推荐机场|理由|使用说明|
 |:-----------------:|:-----------------:|:-----------------:|
-|[**速运梯注册(入口)→**](https://suyunti.net/auth/register?code=sPq4) <br/> **备用地址:** <br/> [http://www.tkgj.life/l](http://www.tkgj.life/l) <br/> [http://www.tkgj.life/m](http://www.tkgj.life/m) <br/> [http://www.tkgj.life/k](http://www.tkgj.life/k) |老牌大机场速鹰的子分支8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[速运梯购买教程](https://www.xiaoglt.top/%e9%80%9f%e4%ba%91%e6%a2%af%e6%b3%a8%e5%86%8c%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/) |
+|[**速运梯注册(入口)→**](https://suyunti1.com/auth/register?code=sPq4) <br/> **备用地址:** <br/> [http://www.tkgj.life/l](http://www.tkgj.life/l) <br/> [http://www.tkgj.life/m](http://www.tkgj.life/m) <br/> [http://www.tkgj.life/k](http://www.tkgj.life/k) |老牌大机场速鹰的子分支8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[速运梯购买教程](https://www.xiaoglt.top/%e9%80%9f%e4%ba%91%e6%a2%af%e6%b3%a8%e5%86%8c%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/) |
 |[**Just My Socks→**](https://justmysocks3.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵，适合要求ip稳定的用户|[Just My Socks使用教程](https://xiaoheicn.top/just-my-socks%e8%b4%ad%e4%b9%b0%e5%92%8c%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/)|
 
 
