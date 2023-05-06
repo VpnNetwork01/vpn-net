@@ -1,7 +1,10 @@
 # "翻墙" 代理详解-看完这里翻墙知识全掌握（2023-05-06）  
 
 ### 在开始之前您一定要先阅读 [这里](https://xiaoheicn.top/%e5%85%b3%e4%ba%8e%e5%b0%8f%e9%bb%91cn/)
-
+### 对于做tiktok短视频外贸的朋友，我相信我这几年整理的材料能够帮助你快速成长  
+[tiktok基础](https://www.xiaoglt.top/wp-content/uploads/2023/05/tiktok基础.zip)  
+[tiktok干货](https://www.xiaoglt.top/wp-content/uploads/2023/05/干货.zip)  
+[tiktok其他重要知识](https://www.xiaoglt.top/wp-content/uploads/2023/05/其他.zip)  
 <br>     
 
 ## 什么是“翻墙” ？翻墙技术有哪些？  
