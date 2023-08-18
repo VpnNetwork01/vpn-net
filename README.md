@@ -6,6 +6,11 @@
 [tiktok干货](https://www.xiaoglt.top/wp-content/uploads/2023/05/干货.zip)  
 [tiktok其他重要知识](https://www.xiaoglt.top/wp-content/uploads/2023/05/其他.zip)  
 
+<br>       
+
+## 什么是“翻墙” ？翻墙技术有哪些？  
+[代理和VPN有什么区别?](代理和VPN有什么区别.md)  
+[代理协议ss、ssr、v2ray、trojan、V2Ray 有什么区别？安全性如何？](https://www.xiaoglt.top/%e4%bb%a3%e7%90%86%e5%8d%8f%e8%ae%aess%e3%80%81ssr%e3%80%81v2ray%e3%80%81trojan%e3%80%81v2ray/)  
 
 <br>
 <br>  
@@ -34,11 +39,6 @@
 [V2Ray客户端 /windows/android/ios/mac](https://www.xiaoglt.top/v2ray%e5%ae%a2%e6%88%b7%e7%ab%af%e5%85%a8%e9%9b%86/)  
 [Xray客户端 /windows/android/ios/mac](https://www.xiaoglt.top/xray%e5%ae%a2%e6%88%b7%e7%ab%af%e5%85%a8%e9%9b%86/)  
 
-<br>       
-
-## 什么是“翻墙” ？翻墙技术有哪些？  
-[代理和VPN有什么区别?](代理和VPN有什么区别.md)  
-[代理协议ss、ssr、v2ray、trojan、V2Ray 有什么区别？安全性如何？](https://www.xiaoglt.top/%e4%bb%a3%e7%90%86%e5%8d%8f%e8%ae%aess%e3%80%81ssr%e3%80%81v2ray%e3%80%81trojan%e3%80%81v2ray/)  
 
 <br>
 <br>
