@@ -1,4 +1,4 @@
-# "翻墙" 代理详解-看完这里翻墙知识全掌握（2023-09-12）  
+# "翻墙" 代理详解-看完这里翻墙知识全掌握（2023-09-13）  
 
 ### 在开始之前您一定要先阅读 [这里](https://xiaoheicn.top/%e5%85%b3%e4%ba%8e%e5%b0%8f%e9%bb%91cn/)
 ### 对于做tiktok短视频外贸的朋友，我相信我这几年整理的材料能够帮助你快速成长  
@@ -68,7 +68,7 @@ vmess://eyJhZGQiOiAiMTYyLjE1OS4yNDEuMTU3IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2
 
 |推荐机场|理由|使用说明|
 |:-----------------:|:-----------------:|:-----------------:|
-|[**速鹰注册(入口)→**](https://suying0000.com/auth/register?code=qiyY) <br/> **备用地址:** <br/> [http://www.tkgj.life/b](http://www.tkgj.life/b) <br/> [http://www.tkgj.life/6](http://www.tkgj.life/6) <br/> [http://www.tkgj.life/a](http://www.tkgj.life/a) |老老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[速鹰使用教程](https://github.com/VpnNetwork01/vpn-net/blob/main/%E9%80%9F%E9%B9%B0%E6%95%99%E7%A8%8B.md) |
+|[**速鹰注册(入口)→**](https://suying0000.xyz/auth/register?code=5J5c) <br/> **备用地址:** <br/> [http://www.tkgj.life/b](http://www.tkgj.life/b) <br/> [http://www.tkgj.life/6](http://www.tkgj.life/6) <br/> [http://www.tkgj.life/a](http://www.tkgj.life/a) |老老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[速鹰使用教程](https://github.com/VpnNetwork01/vpn-net/blob/main/%E9%80%9F%E9%B9%B0%E6%95%99%E7%A8%8B.md) |
 |[**Just My Socks→**](https://justmysocks3.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵，适合要求ip稳定的用户|[Just My Socks使用教程](https://xiaoheicn.top/just-my-socks%e8%b4%ad%e4%b9%b0%e5%92%8c%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/)|
 
 
