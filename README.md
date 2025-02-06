@@ -44,7 +44,7 @@
 <br>
 
 ## 免费的集成式vpn
-[2023年5款免费 VPN 下载](https://www.xiaoglt.top/2022%e5%b9%b45%e6%ac%be%e5%85%8d%e8%b4%b9-vpn-%e4%b8%8b%e8%bd%bd%e6%8e%a8%e8%8d%90-%e4%b8%ad%e5%9b%bd%e5%a4%a7%e9%99%86%e5%8f%af%e7%94%a8/)  
+[2025年5款免费 VPN 下载](https://www.xiaoglt.top/2025年5款免费-vpn-下载推荐-中国大陆可用/)  
 [2025-适用于中国的-6-款最佳-vpn-排行-包括3款100免费](https://www.xiaoglt.top/2025-%E9%80%82%E7%94%A8%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84-6-%E6%AC%BE%E6%9C%80%E4%BD%B3-vpn-%E6%8E%92%E8%A1%8C-%E5%8C%85%E6%8B%AC3%E6%AC%BE100%E5%85%8D%E8%B4%B9-vpn-11%E6%9C%88%E6%9B%B4%E6%96%B0/)  
 
 <br>
